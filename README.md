@@ -1,1 +1,5 @@
- Update: Fri Jan 26 12:59:48 EST 2024
+Update: Fri Jan 26 12:59:48 EST 2024
+
+# CS3704 SE Basics Workshop
+
+Hello GitHub!
