@@ -5,7 +5,7 @@ Update: Fri Jan 26 12:59:48 EST 2024
 Hello GitHub!
 
 
-Maceo:
+Maceo (Maceo@vt.edu):
 
 - What I did.
   - Finish HW 0
@@ -14,7 +14,7 @@ Maceo:
 - What is blocking me.
   - This assignment
 
-Annie:
+Annie (AnnieTTran@vt.edu):
 
 - What I did.
   - Finish HW 0 as well
