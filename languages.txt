@@ -1,0 +1,10 @@
+Group Members: Maceo and Annie
+Annie: AnnieTTran@vt.edu
+- What is your favorite programming language? Why?
+Maceo: Golang, because it is fast and easy to get started with
+Annie: Java, because it is object oriented
+
+- Is your favorite language the one you are also most experienced with? If not, which language are you most experienced with?
+Maceo: No I am probably more experienced with Python or Java
+Annie: Yes
+
